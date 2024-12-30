@@ -80,3 +80,10 @@ Students will repeat the above steps for each new lab:
 3. Work on the lab, commit the changes, and push to their fork.
 4. Submit a pull request to the original repository.
 5. Paste the URL to your Pull Request in the submission field on Student Portal.
+
+
+
+
+
+
+#consider my changes as well
